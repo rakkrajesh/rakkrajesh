@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakkrajesh
 - 👀 I’m interested in technology of all types
-- 🌱 I’m currently learning java full stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java full stack (Angular)
+- 💞️ I’m also crypto and stock market investor ♥ 
 - 📫 reach me at @rakkrajesh
 
 <!---
